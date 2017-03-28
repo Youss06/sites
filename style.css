@@ -1,0 +1,82 @@
+header{
+background-color: rgb(80, 160, 144);
+width: 1292px;
+height: 100px;
+margin-top: -8px;
+}
+
+
+
+img {
+  width: 250px;
+
+}
+
+input{
+  float: right;
+  -moz-user-select: none;
+  moz-user-select: none;
+   background-color: #f2f2f2 ;
+   border: 1px solid #f2f2f2 ;
+   border-radius: 2px;
+   color: #757575 ;
+   cursor: default;
+   margin-top: 10px;
+   font-family: arial,sans-serif;
+}
+
+div {
+  text-align: center;
+  margin-top: -12px;
+}
+
+.shooping {
+
+  color: white;
+  float: right;
+  width: 30px;
+  margin-top: 7px;
+}
+
+.acceuil {
+  color: white;
+  font-weight: bold;
+}
+
+.informatique {
+  color: white;
+  font-weight: bold;
+}
+
+.téléphone {
+  color: white;
+  font-weight: bold;
+}
+.qui {
+  color: white;
+  font-weight: bold;
+}
+
+.contact {
+  color: white;
+  font-weight: bold;
+  margin-right:
+}
+
+
+
+section {
+  background-color: rgb(80, 96, 160);
+  width: 1292px;
+  height: 400px;
+  margin-top: -35px;
+
+}
+
+p {
+  font-weight: bold;
+  color: white;
+padding-top: 40px;
+  margin-left: 780px;
+  font-size: 40px;
+}
