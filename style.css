@@ -1,5 +1,5 @@
 header{
-background-color: rgb(80, 160, 144);
+background-color: #008060;
 width: 1292px;
 height: 100px;
 margin-top: -8px;
@@ -66,10 +66,10 @@ div {
 
 
 section {
-  background-color: rgb(80, 96, 160);
+  background-color: #00B090;
   width: 1292px;
   height: 400px;
-  margin-top: -35px;
+  margin-top: -45px;
 
 }
 
@@ -116,4 +116,70 @@ padding-top: 40px;
   font-size: 30px;
   margin-left: 845px;
   margin-top: -77px;
+}
+
+.m {
+  width: 700px;
+  margin-top: -840px;
+}
+
+article {
+  margin-top: -42px;
+  background-color: white;
+  width: 1292px;
+height: 700px;
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+  color: red;
+  font-weight: bold;
+}
+
+.pc {
+  margin-top: -30px;
+width: 300px;
+  margin-left: 100px;
+}
+
+.tv {
+  margin-top: -30px;
+width: 300px;;
+  margin-left: 100px;
+}
+
+.a {
+  margin-top: -30px;
+width: 300px;;
+  margin-left: 100px;
+}
+
+
+.prix {
+  margin-left: 110px;
+  width: 330px;
+}
+
+
+.prixtv {
+  margin-left: 70px;
+  width: 290px;
+}
+.radio {
+  margin-left: 110px;
+  width: 330px;
+}
+
+footer {
+  background-color: grey;
+  width: 1292px;
+  height: 100px;
+}
+
+.service {
+  width: 500px;
+  font-size: 15px;
+  color: black;
+  font-style: italic;
 }
