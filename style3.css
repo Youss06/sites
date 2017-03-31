@@ -1,0 +1,64 @@
+header {
+  background-color: #483D8B;
+  width: 1292px;
+  height: 100px;
+  margin-top: -35px;
+}
+h1 {
+  font-size: 50px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  padding-top: 25px;
+}
+
+section {
+  margin-top: -60px;
+  width: 1292px;
+  height: 890px;
+  background-color:
+  #483D8B;
+}
+div {
+  padding-top: 40px;
+  margin-top: 60px;
+  text-align: center;
+  color: #FF4500;
+}
+
+.nom {
+  margin-top: -15px;
+  width: 300px;
+  margin-left: 10px;
+}
+
+.adresse {
+  color: white;
+}
+
+.emails {
+color: white;
+}
+
+
+.email {
+  margin-top: -15px;
+  width: 300px;
+  margin-left: 10px;
+}
+
+.message {
+  color: white;
+}
+
+.messages {
+  margin-top: -15px;
+  width: 300px;
+  height: 300px;
+  margin-left: 10px;
+}
+
+button {
+  width: 100px;
+  height: 30px;
+}
