@@ -1,0 +1,207 @@
+header{
+background-color: #008060;
+width: 1292px;
+height: 100px;
+margin-top: -8px;
+}
+
+
+
+img {
+  width: 250px;
+
+}
+
+input{
+  float: right;
+  -moz-user-select: none;
+  moz-user-select: none;
+   background-color: #f2f2f2 ;
+   border: 1px solid #f2f2f2 ;
+   border-radius: 2px;
+   color: #757575 ;
+   cursor: default;
+   margin-top: 10px;
+   font-family: arial,sans-serif;
+}
+
+div {
+  text-align: center;
+  margin-top: -12px;
+}
+
+.shooping {
+
+  color: white;
+  float: right;
+  width: 30px;
+  margin-top: 7px;
+}
+
+.acceuil {
+  color: white;
+  font-weight: bold;
+}
+
+.informatique {
+  color: white;
+  font-weight: bold;
+}
+
+.téléphone {
+  color: white;
+  font-weight: bold;
+}
+.qui {
+  color: white;
+  font-weight: bold;
+}
+
+.contact {
+  color: white;
+  font-weight: bold;
+  margin-right:
+}
+
+
+
+section {
+  background-color: #00B090;
+  width: 1292px;
+  height: 400px;
+  margin-top: -45px;
+
+}
+
+p {
+  font-weight: bold;
+  color: white;
+padding-top: 40px;
+  margin-left: 780px;
+  font-size: 40px;
+}
+
+.c {
+  margin-left: 800px;
+  width: 30px;
+}
+
+
+.ligne {
+  color: white;
+  font-size: 30px;
+  margin-left: 845px;
+  margin-top: -77px;
+}
+
+.flèche {
+  margin-left: 800px;
+  width: 30px;
+}
+
+.ligne2 {
+  color: white;
+  font-size: 30px;
+  margin-left: 845px;
+  margin-top: -77px;
+}
+
+.flèche2 {
+  margin-left: 800px;
+  width: 30px;
+}
+
+.ligne3 {
+  color: white;
+  font-size: 30px;
+  margin-left: 845px;
+  margin-top: -77px;
+}
+
+.m {
+  width: 700px;
+  margin-top: -840px;
+}
+
+article {
+  margin-top: -42px;
+  background-color: white;
+  width: 1292px;
+height: 700px;
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+  color: red;
+  font-weight: bold;
+}
+
+.pc {
+  margin-top: -30px;
+width: 300px;
+  margin-left: 100px;
+}
+
+.tv {
+  margin-top: -30px;
+width: 300px;;
+  margin-left: 100px;
+}
+
+.a {
+  margin-top: -30px;
+width: 300px;;
+  margin-left: 100px;
+}
+
+
+.prix {
+  margin-left: 110px;
+  width: 330px;
+}
+
+
+.prixtv {
+  margin-left: 70px;
+  width: 290px;
+}
+.radio {
+  margin-left: 110px;
+  width: 330px;
+}
+
+footer {
+  background-color: grey;
+  width: 1292px;
+  height: 100px;
+}
+
+.service {
+  width: 500px;
+  font-size: 15px;
+  color: black;
+  font-style: italic;
+}
+
+button {
+  width: 100px;
+  height: 50px;
+  box-shadow: 2px 2px 2px 2px;
+  margin-left: 200px;
+}
+
+.bouton {
+  width: 100px;
+  height: 50px;
+  box-shadow: 2px 2px 2px 2px;
+  margin-left: 300px;
+}
+
+
+.bouton2 {
+  width: 100px;
+  height: 50px;
+  box-shadow: 2px 2px 2px 2px;
+  margin-left: 400px;
+}

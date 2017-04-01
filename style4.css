@@ -1,0 +1,22 @@
+header {
+  margin-top: -12px;
+  background-color: #D8BFD8;
+  width: 1292px;
+  height: 100px;
+  text-align: center;
+  padding-top: 30px;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+section {
+  margin-top: -20px;
+  background-color: #C0C0C0;
+  width: 1292px;
+  height: 800px;
+}
+
+section h2 {
+  text-align: left;
+  font-weight: bold;
+}
