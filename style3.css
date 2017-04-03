@@ -27,6 +27,7 @@ div {
 }
 
 .nom {
+  border: 1px solid black;
   margin-top: -15px;
   width: 300px;
   margin-left: 10px;

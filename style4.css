@@ -1,5 +1,4 @@
 header {
-  margin-top: -12px;
   background-color: #D8BFD8;
   width: 1292px;
   height: 100px;
@@ -7,16 +6,34 @@ header {
   padding-top: 30px;
   font-size: 50px;
   font-weight: bold;
+  /*border: 1px solid black;*/
 }
 
 section {
-  margin-top: -20px;
+
   background-color: #C0C0C0;
   width: 1292px;
   height: 800px;
+  /*border: 1px solid black;*/
 }
 
 section h2 {
-  text-align: left;
+  display: inline-block;
   font-weight: bold;
+  font-size: 40px;
+}
+p{
+  font-size: 20px;
+}
+
+.texte {
+  display: inline-block;
+
+}
+
+
+.map {
+  display: inline-block;
+  margin-top: 0;
+  /*border: 1px solid black;*/
 }
