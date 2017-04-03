@@ -27,7 +27,10 @@ div {
 }
 
 .nom {
+<<<<<<< HEAD
   border: 1px solid black;
+=======
+>>>>>>> f37c2189edf2d6b92e5bc8098edb89101d42d2e2
   margin-top: -15px;
   width: 300px;
   margin-left: 10px;

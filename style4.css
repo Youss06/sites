@@ -1,4 +1,8 @@
 header {
+<<<<<<< HEAD
+=======
+  margin-top: -12px;
+>>>>>>> f37c2189edf2d6b92e5bc8098edb89101d42d2e2
   background-color: #D8BFD8;
   width: 1292px;
   height: 100px;
@@ -6,6 +10,7 @@ header {
   padding-top: 30px;
   font-size: 50px;
   font-weight: bold;
+<<<<<<< HEAD
   /*border: 1px solid black;*/
 }
 
@@ -36,4 +41,18 @@ p{
   display: inline-block;
   margin-top: 0;
   /*border: 1px solid black;*/
+=======
+}
+
+section {
+  margin-top: -20px;
+  background-color: #C0C0C0;
+  width: 1292px;
+  height: 800px;
+}
+
+section h2 {
+  text-align: left;
+  font-weight: bold;
+>>>>>>> f37c2189edf2d6b92e5bc8098edb89101d42d2e2
 }
